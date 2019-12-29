@@ -5,10 +5,10 @@ pragma solidity ^0.5.0;
 // ----------------------------------------------------------------------------
 // 'LOTTO9' token contract
 //
-// Deployed to : 0xEC942Db83Dc32ff59a09579911e0e9ef67CDE3AA
+// Deployed to : 0x33Afa6514ad44594B1886859165B9AA641bDaBA9
 // Symbol      : L9
 // Name        : LOTTO9
-// Total supply: 99999000000000000000000
+// Total supply: 999999000000000000000000
 // Decimals    : 18
 //
 // ----------------------------------------------------------------------------
@@ -121,9 +121,9 @@ contract LOTTO9 is ERC20Interface, Owned, SafeMath {
         symbol = "L9";
         name = "LOTTO9";
         decimals = 18;
-        _totalSupply = 99999000000000000000000;
-        balances[0xEC942Db83Dc32ff59a09579911e0e9ef67CDE3AA] = _totalSupply;
-        emit Transfer(address(0), 0xEC942Db83Dc32ff59a09579911e0e9ef67CDE3AA, _totalSupply);
+        _totalSupply = 999999000000000000000000;
+        balances[0x33Afa6514ad44594B1886859165B9AA641bDaBA9] = _totalSupply;
+        emit Transfer(address(0), 0x33Afa6514ad44594B1886859165B9AA641bDaBA9, _totalSupply);
     }
 
 
