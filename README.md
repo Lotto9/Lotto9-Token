@@ -19,8 +19,11 @@ Official Links:
 Website: https://lotto9.club
 
 Whitepaper: https://lotto9.club/Whitepaper.pdf
+
 Chinese:  https://lotto9.club/l9-wp-cn.pdf
+
 English:  https://lotto9.club/l9-wp-en.pdf
+
 Korean:  https://lotto9.club/l9-wp-kr.pdf
 
 Community Details:
